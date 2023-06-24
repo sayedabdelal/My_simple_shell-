@@ -23,4 +23,4 @@ The Simple Shell project is a command-line interface that allows users to intera
 1. Clone the repository:
 
     ``shell
-     git clone https://github.com/your-username/simple-shell.git
+     git clone https://github.com/sayedabdelal/My_simple_shell-.git
